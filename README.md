@@ -78,16 +78,6 @@ Plugins output evaluation results to stdout in JSON.
 
 ---
 
-## Next Steps
-
-- Scaffold CLI host
-- Build sample rule plugin
-- Implement plugin loading and execution
-- Add input/output pipeline
-- Add error handling, timeouts, plugin registry
-
----
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
